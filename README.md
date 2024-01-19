@@ -1,4 +1,4 @@
-[![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)](https://dedejuniarputra.io)
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)](https://dedejuniarputra.io)
 <h1 align="center">Hi 👋, I'm 𝙙𝙚𝙚𝙚⚡</h1>
 <h3 align="center">𝙖 𝙡𝙞𝙩𝙩𝙡𝙚 𝙠𝙞𝙙 𝙬𝙝𝙤 𝙬𝙖𝙣𝙩𝙨 𝙩𝙤 𝙗𝙚 𝙖 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧💤</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
