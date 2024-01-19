@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif)](https://dedejuniarputra.io)
+[![MasterHead](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)](https://dedejuniarputra.io)
 <h1 align="center">Hi 👋, I'm 𝙙𝙚𝙚𝙚⚡</h1>
 <h3 align="center">𝙖 𝙡𝙞𝙩𝙩𝙡𝙚 𝙠𝙞𝙙 𝙬𝙝𝙤 𝙬𝙖𝙣𝙩𝙨 𝙩𝙤 𝙗𝙚 𝙖 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧💤</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif">
