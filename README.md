@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧〽️**
 
-- 📫 How to reach me **dedejuniarputra99@gmail.com**
+- 📫 How to reach me **https://www.instagram.com/deeezxz_/**
 
 - ⚡ Fun fact **𝙄 𝙩𝙝𝙞𝙣𝙠 𝙄 𝙖𝙢 𝙛𝙪𝙣𝙣𝙮💤**
 
