@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)](https://dedejuniarputra.io)
 <h1 align="center">Hi 👋, I'm 𝙙𝙚𝙚𝙚⚡</h1>
-<h3 align="center">𝙖 𝙡𝙞𝙩𝙩𝙡𝙚 𝙠𝙞𝙙 𝙬𝙝𝙤 𝙬𝙖𝙣𝙩𝙨 𝙩𝙤 𝙗𝙚 𝙖 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧💤</h3>
+<h3 align="center">𝙖 𝙡𝙞𝙩𝙩𝙡𝙚 𝙠𝙞𝙙 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩💤</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/6c/17/bc6c171eee288a2f1e124c749303b24e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedejuniarputra&label=Profile%20views&color=0e75b6&style=flat" alt="dedejuniarputra" /> </p>
