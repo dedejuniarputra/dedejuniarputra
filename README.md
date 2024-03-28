@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **𝙛𝙧𝙤𝙣𝙩𝙚𝙣𝙙〽️**
 
-- 📫 How to reach me **https://www.instagram.com/deeezxz_/**
+- 📫 How to reach me **https://www.instagram.com/deeeonly__/**
 
 - ⚡ Fun fact **𝙄 𝙩𝙝𝙞𝙣𝙠 𝙄 𝙖𝙢 𝙛𝙪𝙣𝙣𝙮💤**
 
