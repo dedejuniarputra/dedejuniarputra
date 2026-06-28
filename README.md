@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is 𝙙𝙚𝙚𝙚⚡
 ==================================================================================================================================
 
-I’m Software Engineer and Mobile Engineer
+I’m Learning Software Engineer and Mobile Engineer
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [dedejuniarputra99@gmail.com](mailto:dedejuniarputra99@gmail.com)
