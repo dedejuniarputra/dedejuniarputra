@@ -90,27 +90,9 @@ status   : Open to opportunities — Software Engineer / Freelance
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dedejuniarputra&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=13ec7b&icon_color=13ec7b&text_color=ffffff&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedejuniarputra&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=13ec7b&text_color=ffffff&langs_count=6" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dedejuniarputra&theme=github-dark-blue&hide_border=true&background=0d1117&ring=13ec7b&fire=13ec7b&currStreakLabel=13ec7b" />
-</p>
-
----
-
 ### 🎮 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dedejuniarputra/dedejuniarputra/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dedejuniarputra/dedejuniarputra/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dedejuniarputra/dedejuniarputra/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/dedejuniarputra/dedejuniarputra/snake-output/snake.svg" alt="Snake animation" />
 
 ---
 
