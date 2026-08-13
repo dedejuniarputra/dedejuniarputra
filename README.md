@@ -24,13 +24,13 @@ name     : Dede Juniar Putra
 alias    : deee ⚡ / WHUSZ
 location : Bandar Lampung, Indonesia 🇮🇩
 focus    : Mobile Development & Web Development
-learning : AI, Flutter, React.js, Next.js
-status   : Open to opportunities
+learning : AI, Laravel , Flutter, React.js, Next.js
+status   : Open to work 2026
 ```
 
 - 🎓 Informatics Student at **Universitas Lampung**
 - 📱 Passionate about **Flutter** & cross-platform mobile apps
-- 🌐 Building with **React.js · Next.js · Laravel**
+- 🌐 Building with web **React.js · Next.js · Laravel**
 - 🤖 Exploring **Artificial Intelligence** & its applications
 - 🔗 Visit my portfolio: **[dedejuniarputra.my.id](https://dedejuniarputra.my.id)**
 
