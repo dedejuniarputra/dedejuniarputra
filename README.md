@@ -22,49 +22,74 @@
 ```yaml
 name     : Dede Juniar Putra
 alias    : deee ⚡ / WHUSZ
+degree   : S.Kom — Computer Science, Universitas Lampung
 location : Bandar Lampung, Indonesia 🇮🇩
-focus    : Mobile Development & Web Development
-learning : AI, Laravel , Flutter, React.js, Next.js
-status   : Open to work 2026
+focus    : Web Development & Mobile Development
+interest : System Analysis · IT Support · AI Integration
+status   : Open to opportunities — Software Engineer / Freelance
 ```
 
-- 🎓 Informatics Student at **Universitas Lampung**
-- 📱 Passionate about **Flutter** & cross-platform mobile apps
-- 🌐 Building with web **React.js · Next.js · Laravel**
-- 🤖 Exploring **Artificial Intelligence** & its applications
-- 🔗 Visit my portfolio: **[dedejuniarputra.my.id](https://dedejuniarputra.my.id)**
+- 🎓 **S.Kom** — Computer Science graduate from **Universitas Lampung**
+- 📱 Building cross-platform mobile apps with **Flutter & Dart**
+- 🌐 Web development using **Laravel · React.js · Next.js · Tailwind CSS**
+- 🔌 Experienced in **REST API, MySQL, Firebase & system end-to-end**
+- 🤖 Exploring **Artificial Intelligence** & productivity tools
+- 🔗 Portfolio: **[dedejuniarputra.my.id](https://dedejuniarputra.my.id)**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Mobile & Frontend**
+**01 · Frontend**
 
 <p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" title="Flutter" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React.js" title="React.js" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="36" height="36" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
-**Backend & Database**
+**02 · Backend & Database**
 
 <p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" title="PHP" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" title="Kotlin" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="36" height="36" alt="Laravel" title="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="36" height="36" alt="Firebase" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" title="Node.js" />
 </p>
 
-**Tools & Design**
+**03 · Mobile Development**
 
 <p>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="36" height="36" alt="Android Studio" title="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="36" height="36" alt="Kotlin" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" title="Dart" />
+</p>
+
+**04 · Tools & Hosting**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/white" width="36" height="36" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/vercel/white" width="36" height="36" alt="Vercel" title="Vercel" />
+  <img src="https://cdn.simpleicons.org/hostinger/673DE6" width="36" height="36" alt="Hostinger" title="Hostinger" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" title="Figma" />
+</p>
+
+**05 · AI Tools**
+
+<p>
+  <img src="https://cdn.simpleicons.org/openai/white" width="36" height="36" alt="ChatGPT" title="ChatGPT" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="36" height="36" alt="Claude" title="Claude" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="36" height="36" alt="Gemini" title="Gemini" />
 </p>
 
 ---
+
 
 ### 📊 GitHub Stats
 
@@ -74,7 +99,7 @@ status   : Open to work 2026
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dedejuniarputra&theme=github-dark-blue&hide_border=true&background=0d1117&ring=13ec7b&fire=13ec7b&currStreakLabel=13ec7b" />
+  <img src="https://streak-stats.demolab.com?user=dedejuniarputra&theme=github-dark-blue&hide_border=true&background=0d1117&ring=13ec7b&fire=13ec7b&currStreakLabel=13ec7b" />
 </p>
 
 ---
