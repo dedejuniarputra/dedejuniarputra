@@ -110,7 +110,7 @@ status   : Open to opportunities — Software Engineer / Freelance
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </picture>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/dedejuniarputraaa" target="_blank">
+  <a href="https://www.linkedin.com/in/dedejuniarputraaa/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
