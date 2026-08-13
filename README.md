@@ -83,16 +83,16 @@ status   : Open to opportunities — Software Engineer / Freelance
 **05 · AI Tools**
 
 <p>
-  <img src="https://cdn.simpleicons.org/openai/white" width="36" height="36" alt="ChatGPT" title="ChatGPT" />
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="36" height="36" alt="Claude" title="Claude" />
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" width="36" height="36" alt="Gemini" title="Gemini" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 </p>
 
 ---
 
-### 🎮 Contribution Graph
+### 🐍 Contribution Graph
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/dedejuniarputra/dedejuniarputra/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dedejuniarputra/dedejuniarputra/snake-output/snake.svg" alt="Snake animation" />
 
 ---
 
